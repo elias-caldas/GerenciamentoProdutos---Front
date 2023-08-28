@@ -1,24 +1,9 @@
-# project_vue_spring
+API Rest - Products
 
-## Project setup
-```
-npm install
-```
+Front-End da aplicação Products, realizado em VueJS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Nessa simples aplicação, em seu front-end, consegui adicionar as seguintes funcionalidades: listar os produtos cadastrados com seus respectivos atributos (nome, quantidade e valor), adicionar produtos e atualizar produtos. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Uma das dificuldades, no entanto, ao realizar essa aplicação, foi de perpassar os problemas relacionados ao CORS, ao realizar o 'delete' dos produtos cadastrados. Ainda não consegui, no entanto.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A despeito disso, aprendi um pouco sobre Vue.js e sobre como consuimir uma API Rest :)
